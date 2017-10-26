@@ -1,0 +1,2 @@
+This is the main requirement doc.
+1.) envit enables users to create a sharaable invitation.
