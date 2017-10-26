@@ -1,2 +1,5 @@
 This is the main requirement doc.
 1.) envit enables users to create a sharaable invitation.
+2.) User can create any number of invitations.
+3.) Template engine allows user to select multiple layout types to chose for an invitation.
+4.) User can add location of event, time of event and more details to an invitation.
